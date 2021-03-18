@@ -1,6 +1,6 @@
 # mittalc.github.io
 
 
-My Portfolio Website
+https://mittalc.github.io/
 
-Built using Bootstrap
+My Portfolio Website - Built using Bootstrap
