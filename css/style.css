@@ -418,7 +418,7 @@ a:hover, a:active, a:focus {
   right: 0;
   bottom: 0;
   left: 0;
-  opacity: 0;
+  opacity: 0.7;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
@@ -432,7 +432,7 @@ a:hover, a:active, a:focus {
   transition: all ease-in-out 0.4s;
 }
 .project-item:hover img {
-  transform: scale(1.1);
+  transform: scale(1.01);
 }
 
 .project-overlay h1 {
@@ -448,8 +448,10 @@ a:hover, a:active, a:focus {
 }
 
 .project-item:hover .project-overlay {
-  opacity: 1;
+  opacity: 0;
 }
+
+
 
 
 /*---------------------------------------
