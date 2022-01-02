@@ -650,7 +650,7 @@ footer .copyright-text {
 
 
   .project-info {
-    padding: 4em 0;
+    padding: 100% 0;
   }
 
   footer {
@@ -685,7 +685,7 @@ footer .copyright-text {
   }
 
   .project-info {
-    padding: 10em 0;
+    padding: 100% 0;
   }
 
   .footer-info {
@@ -709,6 +709,6 @@ footer .copyright-text {
   }
 
   .project-info {
-    padding: 5em 0;
+    padding: 100% 0;
   }
 }
